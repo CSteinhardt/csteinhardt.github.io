@@ -6,4 +6,4 @@ collection: research
 entries_layout: grid
 ---
 
-Test message
+Sample document listing for the collection `_research`.
