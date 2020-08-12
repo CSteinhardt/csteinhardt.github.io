@@ -21,7 +21,7 @@ title: "Charles L. Steinhardt"
 description: "Associate Professor, Cosmic Dawn Center, Niels Bohr Institute, University of Copenhagen"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://csteinhardt.github.io # the base hostname & protocol for your site e.g. "https://csteinhardt.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: images/headshot.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: 200 # 200
@@ -93,7 +93,7 @@ defaults:
 author:
   name: Charles Steinhardt
   picture:
-  email: steinhardt(at)nbi.ku.dk
+  email: steinhardt@nbi.ku.dk
   twitter:
   links:
     - title:
