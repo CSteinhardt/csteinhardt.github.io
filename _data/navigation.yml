@@ -8,9 +8,11 @@
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
-# - title: Recipes
-#   url: /recipes/
+- title: Research
+  url: /research/
 # - title: Search
 #   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Recent Papers
+  url: /papers/
+- title: Recent and Upcoming Talks
+  url: /talks/
