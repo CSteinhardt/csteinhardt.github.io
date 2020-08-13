@@ -1,9 +1,9 @@
 ---
 title: "Galaxy Evolution"
 image: 
-  path: /images/impossiblyearly.jpg
-  thumbnail: /images/impossiblyearly.png
-  caption: "Steinhardt et al. 2016"
+  path: /images/uniform-cartoon.jpg
+  thumbnail: /images/uniform-cartoon.png
+  caption: "Steinhardt & Speagle 2016"
 ---
 
 Over the last 10-15 years, we have found fundamental puzzles with the potential to significant change our understanding of each of the three major stages of galaxy evolution:

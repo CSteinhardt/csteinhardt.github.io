@@ -13,5 +13,5 @@ I am co-PI of [BUFFALO](https://buffalo.ipac.caltech.edu) (Beyond Ultra-deep Fro
 
 ## More Information
 
-BUFFALO is an open collaboration, and we welcome researchers who have something to contribute or would like to work with our dataset.  For more information, please visit the [BUFFALO website](https://buffalo.ipac.caltech.edu)
+BUFFALO is an open collaboration, and we welcome researchers who have something to contribute or would like to work with our dataset.  For more information, please visit the [BUFFALO website](https://buffalo.ipac.caltech.edu).
 
