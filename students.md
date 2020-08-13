@@ -1,8 +1,8 @@
 ---
-title: Papers
+title: Students
 layout: collection
-permalink: /papers/
-collection: papers
+permalink: /students/
+collection: students
 entries_layout: grid
 ---
 
