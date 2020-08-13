@@ -87,9 +87,11 @@ collections:
   papers:
     output: false
     permalink: /:collection/:path/
+    sort_by: date
   students:
     output: false
     permalink: /:collection/:path/
+    sort_by: date
 
 # Front Matter Defaults
 defaults:
