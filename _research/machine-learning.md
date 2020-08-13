@@ -2,7 +2,7 @@
 title: "Machine Learning"
 image: 
   path: /images/grb-tsne.jpg
-  thumbnail: /images/grb-tsne.png
+  thumbnail: /images/caterr_small.png
   caption: "Jespersen et al. 2020"
 ---
 
