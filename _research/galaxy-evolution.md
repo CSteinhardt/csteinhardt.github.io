@@ -6,15 +6,11 @@ image:
   caption: "Steinhardt et al. 2016"
 ---
 
-## Fundamental Puzzles in Galaxy Evolution
-
-The history of a typical galaxy has three stages: 
+Over the last 10-15 years, we have found fundamental puzzles with the potential to significant change our understanding of each of the three major stages of galaxy evolution:
 
 * Assembly of the ingredients that will eventually turn into a galaxy
 * Production of stars, a central supermassive black hole, and recognizable structure
 * Galaxy "death", or quiescence, with all of these growth processes stopping.
-
-Over the past 10-15 years, we have found fundamental puzzles with the potential to significantly change our understanding of each of these stages.  
 
 Observations of the brightest galaxies in the early Universe appear to reveal galaxies so massive that under standard cosmology, their ingredients would not even have had time to assemble, let alone also form a galaxy.  If these masses are correct, an explanation might suggest the introduction of new high-energy physics in order to allow more rapid assembly.
 
@@ -22,7 +18,7 @@ Observations of both star-forming galaxies and rapidly-growing supermassive blac
 
 Finally, observations continue to uncover "dead" galaxies at earlier and earlier times, with massive quiescent galaxies now having been found less than 1.5 billion years after the Big Bang.  It is unclear why these galaxies not only evolve so quickly, but also remain quiescent even when their environments continue to provide fresh material which could be made into new stars.
 
-# How can we solve these puzzles?
+## How can we solve these puzzles?
 
 The next decade is set to see the launch of two major new space missions, the [James Webb Space Telescope](https://www.jwst.nasa.gov/), the most expensive basic research faculty ever constructed, and the [Euclid](https://sci.esa.int/web/euclid/), the largest astronomical collaboration in history.  These will be paired with cutting-edge ground-based telescopes including the [Atacama Large Millimeter Array](https://www.almaobservatory.org/en/home/) and the [https://www.eso.org/public/teles-instr/elt/](https://www.eso.org/public/teles-instr/elt/) to allow first glimpses of the transition between the initial assembly and subsequenct evolution of galaxies, a period called Cosmic Dawn.  I am a member of the [Cosmic Dawn Center](https://dawn.nbi.ku.dk/), a Danish National Research Foundation Center of Excellence focused on making full use of these new telescopes to answer these questions in the coming decade.
 

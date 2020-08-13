@@ -1,20 +1,22 @@
 ---
-title: "The BUFFALO HST Survey"
+title: "Machine Learning"
 image: 
-  path: /images/BUFFALO_A370.jpg
-  thumbnail: /images/buffalo-logo.png
-  caption: "BUFFALO image of Abell 370"
+  path: /images/grb-tsne.jpg
+  thumbnail: /images/grb-tsne.png
+  caption: "Jespersen et al. 2020"
 ---
 
-## The BUFFALO Survey
+Astronomy is rapidly becoming a big data science, and therefore much of my recent work involves machine learning and astrostatistics.  These methods have provided insights not just into galaxy evolution, but a wide range of astronomical problems.  I have particularly focused on methods for classifying objects, so that additional observations of a small, well-chosen sample allows us to learn about the entire dataset.  A main advantage of these methods is that the classification does not come from theoretical models, but rather from the data itself.  
 
-Beyond Ultra-deep Frontier Fields And Legacy Observations (BUFFALO) is an astronomical survey built around the six Hubble Space Telescope (HST) Frontier Fields clusters designed to learn about early galactic assembly and clustering and prepare targets for observations with the James Webb Space Telescope.  BUFFALO will place significant new constraints on how and when the most massive and luminous galaxies in the universe formed and how early galaxy formation is linked to dark matter assembly. The same data will also probe the temperature and cross section of dark matter in the massive Frontier Fields galaxy clusters, and tell us how the dark matter, cluster gas, and dynamics of the clusters influence the galaxies in and around them. These important studies are possible because the Spitzer Space Telescope, Chandra X-ray Observatory, and ground based telescopes have already invested heavily in deep observations around the Frontier Fields, so that the addition of HST observations can yield significant new results. Our international team of nearly 100 astronomers from 13 countries includes experts in theory, simulation, and observations of early galactic evolution, gravitational lensing, and supernovae.
+Successful applications of these other astrostatistical methods include:
+
+* A method for identifying objects where template fitting has produced a "catastrophically"-wrong redshift, then correcting these to produce more complete catalogs of the early Universe.
+* An improved selection of "dead", or quiescent, galaxies
+* Classifying gamma-ray bursts into two types from their prompt emission alone, a central problem in the study of these bursts
+* A re-analysis of Type Ia supernova data suggesting the possibility of a new disagreement between local and early-Universe measurements of the composition of the Universe in addition to the previously-reported tension between measurements of the Hubble constant.
 
 ## Key Papers
 
 
-## More Information
-
-BUFFALO is an open collaboration, and we welcome researchers who have something to contribute or would like to work with our dataset.  For more information, please visit the BUFFALO website at http://buffalo.ipac.caltech.edu
 
 
