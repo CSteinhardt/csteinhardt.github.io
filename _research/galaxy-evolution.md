@@ -1,20 +1,33 @@
 ---
-title: "The BUFFALO HST Survey"
+title: "Galaxy Evolution"
 image: 
-  path: /images/BUFFALO_A370.jpg
-  thumbnail: /images/buffalo-logo.png
-  caption: "BUFFALO image of Abell 370"
+  path: /images/impossiblyearly.jpg
+  thumbnail: /images/impossiblyearly.png
+  caption: "Steinhardt et al. 2016"
 ---
 
-## The BUFFALO Survey
+## Fundamental Puzzles in Galaxy Evolution
 
-Beyond Ultra-deep Frontier Fields And Legacy Observations (BUFFALO) is an astronomical survey built around the six Hubble Space Telescope (HST) Frontier Fields clusters designed to learn about early galactic assembly and clustering and prepare targets for observations with the James Webb Space Telescope.  BUFFALO will place significant new constraints on how and when the most massive and luminous galaxies in the universe formed and how early galaxy formation is linked to dark matter assembly. The same data will also probe the temperature and cross section of dark matter in the massive Frontier Fields galaxy clusters, and tell us how the dark matter, cluster gas, and dynamics of the clusters influence the galaxies in and around them. These important studies are possible because the Spitzer Space Telescope, Chandra X-ray Observatory, and ground based telescopes have already invested heavily in deep observations around the Frontier Fields, so that the addition of HST observations can yield significant new results. Our international team of nearly 100 astronomers from 13 countries includes experts in theory, simulation, and observations of early galactic evolution, gravitational lensing, and supernovae.
+The history of a typical galaxy has three stages: 
+
+* Assembly of the ingredients that will eventually turn into a galaxy
+* Production of stars, a central supermassive black hole, and recognizable structure
+* Galaxy "death", or quiescence, with all of these growth processes stopping.
+
+Over the past 10-15 years, we have found fundamental puzzles with the potential to significantly change our understanding of each of these stages.  
+
+Observations of the brightest galaxies in the early Universe appear to reveal galaxies so massive that under standard cosmology, their ingredients would not even have had time to assemble, let alone also form a galaxy.  If these masses are correct, an explanation might suggest the introduction of new high-energy physics in order to allow more rapid assembly.
+
+Observations of both star-forming galaxies and rapidly-growing supermassive black holes find a surprising similarity and even synchronization to their growth.  Even though galaxies live in a wide variety of environments, have different shapes, sizes, histories, and colors, they all appear to grow their stars and supermassive black holes in similar ways.  Further, even though galaxies of the same mass are predicted to have assembled at different times, their later evolution is synchronized, even across the entire observable Universe.
+
+Finally, observations continue to uncover "dead" galaxies at earlier and earlier times, with massive quiescent galaxies now having been found less than 1.5 billion years after the Big Bang.  It is unclear why these galaxies not only evolve so quickly, but also remain quiescent even when their environments continue to provide fresh material which could be made into new stars.
+
+# How can we solve these puzzles?
+
+The next decade is set to see the launch of two major new space missions, the [James Webb Space Telescope](https://www.jwst.nasa.gov/), the most expensive basic research faculty ever constructed, and the [Euclid](https://sci.esa.int/web/euclid/), the largest astronomical collaboration in history.  These will be paired with cutting-edge ground-based telescopes including the [Atacama Large Millimeter Array](https://www.almaobservatory.org/en/home/) and the [https://www.eso.org/public/teles-instr/elt/](https://www.eso.org/public/teles-instr/elt/) to allow first glimpses of the transition between the initial assembly and subsequenct evolution of galaxies, a period called Cosmic Dawn.  I am a member of the [Cosmic Dawn Center](https://dawn.nbi.ku.dk/), a Danish National Research Foundation Center of Excellence focused on making full use of these new telescopes to answer these questions in the coming decade.
+
+Prior to upcoming launches, my goal is to make full use of existing telescopes.  I am the PI of [BUFFALO](https://buffalo.ipac.caltech.edu/), a large Hubble Space Telescope program which takes advantage of gravitational lensing from massive galaxy clusters to magnify distant galaxies which would otherwies be too faint for Hubble to observe.  I am also a member of the SPLASH and COSMOS teams, which have produced a 2 square degree, multi-wavelength dataset responsible for many of the discoveries mentioned above, and the upcoming Cosmic Dawn Survey.  At the same time, I develop theoretical models in an attempt to solve these puzzles, which can be tested by JWST and Euclid.
 
 ## Key Papers
-
-
-## More Information
-
-BUFFALO is an open collaboration, and we welcome researchers who have something to contribute or would like to work with our dataset.  For more information, please visit the BUFFALO website at http://buffalo.ipac.caltech.edu
 
 
