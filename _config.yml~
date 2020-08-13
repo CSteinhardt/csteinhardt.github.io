@@ -84,12 +84,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  papers:
-    output: false
-    permalink: /:collection/:path/
-  students:
-    output: false
-    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
