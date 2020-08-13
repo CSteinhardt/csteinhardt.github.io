@@ -1,10 +1,8 @@
 ---
 title: "The BUFFALO HST Survey"
 link: "https://ui.adsabs.harvard.edu/abs/2018AAS...23133204S/"
+url: "https://ui.adsabs.harvard.edu/abs/2018AAS...23133204S/"
 image: 
-  path: /images/BUFFALO_A370.jpg
   thumbnail: /images/buffalo-logo.png
-  caption: "BUFFALO image of Abell 370"
-  link: "https://ui.adsabs.harvard.edu/abs/2018AAS...23133204S/"
 ---
 
