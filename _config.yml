@@ -47,12 +47,12 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: false # can have performance implications for large sites
@@ -94,6 +94,14 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: post
+      comments: true
+      share: true
+
 
 # Site Author
 author:
