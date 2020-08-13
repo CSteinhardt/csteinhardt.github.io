@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Evolution"
 image: 
-  path: /images/uniform-cartoon.jpg
+  path: /images/uniform-cartoon.png
   thumbnail: /images/uniform-cartoon.png
   caption: "Steinhardt & Speagle 2016"
 ---
